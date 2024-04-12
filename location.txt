@@ -1,0 +1,76 @@
+# Brave Location
+Point(x=46, y=282)
+
+--------------------
+
+## Youtube Location //Profile 1
+Point(x=744, y=643)
+
+## Youtube SerarchBar Location //Profile 1
+Point(x=479, y=74)
+
+## Suscribe Button Location //Profile 1
+Point(x=1731, y=367)
+
+--------------------
+
+# Change account in same Profile
+
+## Acc icon Location
+Point(x=1845, y=174)
+
+## switch account btn Location
+Point(x=1659, y=364)
+
+-----------
+
+## 2nd account Location
+Point(x=1570, y=573)
+
+## 3rd account Location
+Point(x=1574, y=700)
+
+## 4th account Location
+Point(x=1584, y=828)
+
+## 5th account Location
+Point(x=1624, y=986)
+
+## 6th account Location
+Point(x=1578, y=326)
+
+## 7th account Location
+Point(x=1557, y=460)
+
+## 8th account Location
+Point(x=1612, y=601)
+
+## 9th account Location
+Point(x=1588, y=714)
+
+## 10th account Location
+Point(x=1590, y=840)
+
+
+--------------------
+
+# First Profile Location
+Point(x=834, y=439)
+
+# Second Profile Location
+Point(x=1082, y=453)
+
+# Third Profile Location
+Point(x=1278, y=477)
+
+# Fourth Profile Location
+Point(x=635, y=689)
+
+----------------------
+
+# New Tab Location
+Point(x=327, y=22)
+
+
+# Close Tab Location
+Point(x=288, y=22)
