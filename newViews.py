@@ -114,8 +114,7 @@ for key,value in profileCoordinates:
     p.moveTo(46,282,2)
     p.doubleClick()
     
-    openProfile(key,value,testVideos
-                ) 
+    openProfile(key,value,testVideos) 
 
     time.sleep(VIDEO_PLAY_TIME)
 
